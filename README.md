@@ -1,1 +1,1 @@
-# Clustering
+# Image Clustering
